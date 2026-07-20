@@ -2,7 +2,7 @@
 **A passionate Java developer || Full-Stack || Backend Developer
 
 
-- 🌱 **I’m currently learning:**  Java Backend
+- 🌱 **I’m currently learning:**  python
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🔗 I am a Web Developer. 😊😊
